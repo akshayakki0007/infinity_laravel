@@ -1,0 +1,1 @@
+<?php echo (stripcslashes($email_html)); ?>
